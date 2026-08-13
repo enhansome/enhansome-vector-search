@@ -1,0 +1,791 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [],
+      "title": "Awesome Vector Search Engine"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Milvus - A cloud-native vector database with high-performance and high scalability.",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-13T04:05:45Z",
+            "owner": "milvus-io",
+            "repo": "milvus",
+            "stars": 45619
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Qdrant - Vector Similarity Search Engine with extended filtering support",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-13T01:46:11Z",
+            "owner": "qdrant",
+            "repo": "qdrant",
+            "stars": 33946
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Jina - Jina allows you to build deep learning-powered search-as-a-service.",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-03-24T13:59:54Z",
+            "owner": "jina-ai",
+            "repo": "serve",
+            "stars": 21861
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Weaviate - A cloud-native, real-time vector search engine",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-13T03:38:32Z",
+            "owner": "weaviate",
+            "repo": "weaviate",
+            "stars": 16725
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "txtai - Build semantic search applications and workflows",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-12T13:42:39Z",
+            "owner": "neuml",
+            "repo": "txtai",
+            "stars": 12884
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SuperDuperDB - Bring AI to your favorite database",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-09-01T15:20:18Z",
+            "owner": "superduper-io",
+            "repo": "superduper",
+            "stars": 5314
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Marqo - A semantic search engine which supports tensor search (sequence of vectors)",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-08T08:50:53Z",
+            "owner": "marqo-ai",
+            "repo": "marqo",
+            "stars": 5019
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Infinity - The AI-native database built for LLM applications, providing incredibly fast vector and full-text search",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-06T14:00:18Z",
+            "owner": "infiniflow",
+            "repo": "infinity",
+            "stars": 4667
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Vearch - A scalable distributed system for efficient similarity search of deep learning vectors",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-27T05:29:53Z",
+            "owner": "vearch",
+            "repo": "vearch",
+            "stars": 2319
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "JVector - a pure Java, zero dependency, embedded vector search engine, used by DataStax Astra DB and Apache Cassandra.",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-08-12T18:55:40Z",
+            "owner": "datastax",
+            "repo": "jvector",
+            "stars": 1740
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Vald - A Highly Scalable Distributed Vector Search Engine",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-13T02:40:10Z",
+            "owner": "vdaas",
+            "repo": "vald",
+            "stars": 1716
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Solr - Apache Solr",
+          "description": "has a Dense Vector Search feature as of Solr 9.0",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-08-13T00:44:12Z",
+            "owner": "apache",
+            "repo": "solr",
+            "stars": 1654
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Omnigraph - Typed graph database where agents branch and merge like Git. S3-native, Rust, traversal + vector + BM25 in one runtime",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-13T00:59:05Z",
+            "owner": "ModernRelay",
+            "repo": "omnigraph",
+            "stars": 1054
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Epsilla - A High Performance Vector Database Management System, Hippocampus For AI",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2025-11-29T16:02:22Z",
+            "owner": "epsilla-cloud",
+            "repo": "vectordb",
+            "stars": 875
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Elastiknn - Elasticsearch plugin for nearest neighbor search",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Scala",
+            "last_commit": "2026-07-06T00:38:07Z",
+            "owner": "alexklibisz",
+            "repo": "elastiknn",
+            "stars": 395
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Aquila DB - Distribution focused k-NN search algorithm",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2024-05-06T18:26:02Z",
+            "owner": "Aquila-Network",
+            "repo": "aquila",
+            "stars": 379
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "OpenDistro Elasticsearch KNN - A machine learning plugin which supports an approximate k-NN search algorithm for Open Distro for Elasticsearch",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Java",
+            "last_commit": "2021-04-30T22:19:53Z",
+            "owner": "opendistro-for-elasticsearch",
+            "repo": "k-NN",
+            "stars": 283
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "VQLite - Simple and Lightweight Vector Search Engine",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2024-07-12T07:48:57Z",
+            "owner": "VQLite",
+            "repo": "VQLite",
+            "stars": 93
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Redis HNSW - A redis module for similarity search based on HNSW",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2020-09-01T23:57:31Z",
+            "owner": "zhao-lang",
+            "repo": "redis_hnsw",
+            "stars": 59
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Vexvault - 100% browser based, open source, scalable, simple, zero-cost vector search",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2023-11-11T07:04:52Z",
+            "owner": "Xyntopia",
+            "repo": "vexvault",
+            "stars": 25
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Semantra - A multipurpose tool for semantically searching documents.",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-06-24T05:02:18Z",
+            "owner": "freedmand",
+            "repo": "semantra",
+            "stars": 9
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "pgANN - Fast Approximate Nearest Neighbor (ANN) searches with a PostgreSQL database",
+          "description": null,
+          "children": []
+        }
+      ],
+      "title": "Standalone Service"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "LLM App - Open-source Python library for a real-time data KNN (K-Nearest Neighbors) indexing",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2026-07-05T17:59:07Z",
+            "owner": "pathwaycom",
+            "repo": "llm-app",
+            "stars": 59068
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Faiss - A library for efficient similarity search and clustering of dense vectors",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-13T00:46:03Z",
+            "owner": "facebookresearch",
+            "repo": "faiss",
+            "stars": 40728
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ScaNN - A library efficient vector similarity search at scale.",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2026-08-12T12:20:59Z",
+            "owner": "google-research",
+            "repo": "google-research",
+            "stars": 38526
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Chroma - The open-source embedding database for building LLM apps in Python or JavaScript with memory",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-12T21:03:05Z",
+            "owner": "chroma-core",
+            "repo": "chroma",
+            "stars": 29043
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "pgvector - Open-source vector similarity search extension for Postgres",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-08-08T06:08:24Z",
+            "owner": "pgvector",
+            "repo": "pgvector",
+            "stars": 22606
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Annoy - C++ library with Python bindings to search for points",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2025-10-29T14:08:37Z",
+            "owner": "spotify",
+            "repo": "annoy",
+            "stars": 14282
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CocoIndex - An open-source ETL framework with realtime incremental processing to keep index fresh",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-12T06:50:46Z",
+            "owner": "cocoindex-io",
+            "repo": "cocoindex",
+            "stars": 11289
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SPTAG - A distributed approximate nearest neighborhood search (ANN) library",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-13T03:25:21Z",
+            "owner": "microsoft",
+            "repo": "SPTAG",
+            "stars": 5012
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "USearch - Smaller & Faster Vector Search Engine for C++, Python, JavaScript, Rust, Java, GoLang, Wolfram",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-07-10T18:39:13Z",
+            "owner": "unum-cloud",
+            "repo": "USearch",
+            "stars": 4260
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "NMSLIB - Non-Metric Space Library, an efficient similarity search library for generic non-metric spaces",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-04-13T22:42:50Z",
+            "owner": "nmslib",
+            "repo": "nmslib",
+            "stars": 3590
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Hora - Efficient approximate nearest neighbor search algorithm collections library written in Rust",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-02-17T13:34:53Z",
+            "owner": "hora-search",
+            "repo": "hora",
+            "stars": 2662
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Pyserini - Toolkit for reproducible information retrieval research with sparse and dense representations",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-12T13:01:25Z",
+            "owner": "castorini",
+            "repo": "pyserini",
+            "stars": 2149
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Embeddinghub - A database built for machine learning embeddings",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2025-07-03T19:09:35Z",
+            "owner": "featureform",
+            "repo": "featureform",
+            "stars": 1985
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SimSIMD - Hardware-accelerated mixed-precision numerics library for dense and sparse vector math and search",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-08-07T19:14:50Z",
+            "owner": "ashvardanian",
+            "repo": "NumKong",
+            "stars": 1872
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "JVector - A pure Java, zero dependency, embedded vector search engine used by some of the advanced distributed databases such as DataStax Astra DB & Apache Cassandra™",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-08-12T18:55:40Z",
+            "owner": "datastax",
+            "repo": "jvector",
+            "stars": 1740
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "NGT - Provides commands and a library for performing high-speed approximate nearest neighbor",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-07-27T23:11:15Z",
+            "owner": "NGT-labs",
+            "repo": "NGT",
+            "stars": 1369
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Voy - A WASM vector similarity search engine written in Rust",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2023-09-20T18:14:53Z",
+            "owner": "tantaraio",
+            "repo": "voy",
+            "stars": 1067
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "chromem-go - Embeddable vector database for Go with Chroma-like interface and zero third-party dependencies. In-memory with optional persistence.",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-05-17T18:00:12Z",
+            "owner": "philippgille",
+            "repo": "chromem-go",
+            "stars": 1044
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PyNNDescent - A python nearest neighbor descent for approximate k nearest neighbors",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-01T22:48:17Z",
+            "owner": "lmcinnes",
+            "repo": "pynndescent",
+            "stars": 969
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Autofaiss - Automatically create Faiss knn indices",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-11-04T18:08:02Z",
+            "owner": "criteo",
+            "repo": "autofaiss",
+            "stars": 907
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Moss - Sub-10ms semantic search engine for Voice & Conversational AI, built in Rust/WebAssembly for on-device / in-browser retrieval",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-29T17:03:59Z",
+            "owner": "usemoss",
+            "repo": "moss",
+            "stars": 661
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "TOROS N2 - lightweight approximate Nearest Neighbor library",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2023-06-27T16:54:16Z",
+            "owner": "kakao",
+            "repo": "n2",
+            "stars": 582
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Granne - Graph-based retrieval of approximate nearest neighbors witten in rust",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2024-07-08T15:36:08Z",
+            "owner": "granne",
+            "repo": "granne",
+            "stars": 319
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Distributed Faiss - Work with FAISS indexes which don't fit into a single server memory",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Python",
+            "last_commit": "2023-11-01T15:59:47Z",
+            "owner": "facebookresearch",
+            "repo": "distributed-faiss",
+            "stars": 280
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MRPT - Fast nearest neighbor search with random projection",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-06-19T12:35:25Z",
+            "owner": "vioshyvo",
+            "repo": "mrpt",
+            "stars": 270
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "TorchPQ - Efficient implementations of Product Quantization and its variants using Pytorch and CUDA",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Cuda",
+            "last_commit": "2023-12-12T23:17:26Z",
+            "owner": "DeMoriarty",
+            "repo": "TorchPQ",
+            "stars": 237
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Scalable Vector Search (SVS) - A performance library for vector similarity search",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-12T14:33:41Z",
+            "owner": "intel",
+            "repo": "ScalableVectorSearch",
+            "stars": 235
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "RPForest - Python library for approximate nearest neighbours search",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2020-02-08T00:44:48Z",
+            "owner": "lyst",
+            "repo": "rpforest",
+            "stars": 224
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "TarsosLSH - A Java library implementing practical nearest neighbour search algorithm for multidimensional vectors",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2020-07-26T11:35:16Z",
+            "owner": "JorenSix",
+            "repo": "TarsosLSH",
+            "stars": 201
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PUFFINN - Parameterless and Universal Fast FInding of Nearest Neighbors",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2025-03-13T11:14:19Z",
+            "owner": "puffinn",
+            "repo": "puffinn",
+            "stars": 60
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "altor-vec - In-browser HNSW vector search in JavaScript. 54KB WASM, sub-millisecond queries, no server required. npm install altor-vec",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-07-03T04:43:55Z",
+            "owner": "Altor-lab",
+            "repo": "altor-vec",
+            "stars": 53
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PASE - Ultra-High-Dimensional approximate nearest neighbor search extension for Postgres",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2022-08-26T06:08:01Z",
+            "owner": "alipay",
+            "repo": "PASE",
+            "stars": 50
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Golang vector stores collection - Chroma, PGVector interfaces",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2023-10-24T19:46:10Z",
+            "owner": "urjitbhatia",
+            "repo": "vectorstores",
+            "stars": 3
+          }
+        }
+      ],
+      "title": "Library"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T04:30:46.677Z",
+    "original_repository": "currentslab/awesome-vector-search",
+    "original_repository_sha": "13216a05cbfda719937b3e2973dc1cec51f4dc4e",
+    "enhanced_repository": "enhansome/enhansome-vector-search",
+    "enhanced_repository_description": null,
+    "title": "Awesome vector search with stars"
+  }
+}
