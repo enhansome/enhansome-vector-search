@@ -16,10 +16,10 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-08-17T09:14:29Z",
+            "last_commit": "2026-08-18T10:11:19Z",
             "owner": "milvus-io",
             "repo": "milvus",
-            "stars": 45660
+            "stars": 45676
           }
         },
         {
@@ -30,10 +30,10 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-08-17T09:43:20Z",
+            "last_commit": "2026-08-18T01:50:35Z",
             "owner": "qdrant",
             "repo": "qdrant",
-            "stars": 34016
+            "stars": 34041
           }
         },
         {
@@ -47,7 +47,7 @@
             "last_commit": "2025-03-24T13:59:54Z",
             "owner": "jina-ai",
             "repo": "serve",
-            "stars": 21863
+            "stars": 21861
           }
         },
         {
@@ -58,10 +58,10 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-08-17T09:51:30Z",
+            "last_commit": "2026-08-18T10:10:58Z",
             "owner": "weaviate",
             "repo": "weaviate",
-            "stars": 16733
+            "stars": 16738
           }
         },
         {
@@ -103,7 +103,7 @@
             "last_commit": "2026-08-08T08:50:53Z",
             "owner": "marqo-ai",
             "repo": "marqo",
-            "stars": 5021
+            "stars": 5022
           }
         },
         {
@@ -114,10 +114,10 @@
           "repo_info": {
             "archived": false,
             "language": "C++",
-            "last_commit": "2026-08-06T14:00:18Z",
+            "last_commit": "2026-08-17T13:43:09Z",
             "owner": "infiniflow",
             "repo": "infinity",
-            "stars": 4673
+            "stars": 4674
           }
         },
         {
@@ -131,7 +131,7 @@
             "last_commit": "2026-07-27T05:29:53Z",
             "owner": "vearch",
             "repo": "vearch",
-            "stars": 2319
+            "stars": 2321
           }
         },
         {
@@ -142,7 +142,7 @@
           "repo_info": {
             "archived": false,
             "language": "Java",
-            "last_commit": "2026-08-17T02:33:59Z",
+            "last_commit": "2026-08-17T19:28:37Z",
             "owner": "datastax",
             "repo": "jvector",
             "stars": 1741
@@ -156,7 +156,7 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-08-17T01:49:31Z",
+            "last_commit": "2026-08-18T04:50:59Z",
             "owner": "vdaas",
             "repo": "vald",
             "stars": 1716
@@ -170,10 +170,10 @@
           "repo_info": {
             "archived": false,
             "language": "Java",
-            "last_commit": "2026-08-16T20:46:13Z",
+            "last_commit": "2026-08-17T20:00:58Z",
             "owner": "apache",
             "repo": "solr",
-            "stars": 1658
+            "stars": 1660
           }
         },
         {
@@ -184,10 +184,10 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-08-17T10:14:03Z",
+            "last_commit": "2026-08-18T09:42:58Z",
             "owner": "ModernRelay",
             "repo": "omnigraph",
-            "stars": 1061
+            "stars": 1062
           }
         },
         {
@@ -325,7 +325,7 @@
             "last_commit": "2026-07-05T17:59:07Z",
             "owner": "pathwaycom",
             "repo": "llm-app",
-            "stars": 59025
+            "stars": 59013
           }
         },
         {
@@ -336,10 +336,10 @@
           "repo_info": {
             "archived": false,
             "language": "C++",
-            "last_commit": "2026-08-15T01:16:56Z",
+            "last_commit": "2026-08-18T00:31:03Z",
             "owner": "facebookresearch",
             "repo": "faiss",
-            "stars": 40750
+            "stars": 40752
           }
         },
         {
@@ -353,7 +353,7 @@
             "last_commit": "2026-08-16T18:45:46Z",
             "owner": "google-research",
             "repo": "google-research",
-            "stars": 38561
+            "stars": 38572
           }
         },
         {
@@ -364,7 +364,7 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-08-16T18:18:38Z",
+            "last_commit": "2026-08-18T09:43:31Z",
             "owner": "chroma-core",
             "repo": "chroma",
             "stars": 29075
@@ -381,7 +381,7 @@
             "last_commit": "2026-08-15T16:00:34Z",
             "owner": "pgvector",
             "repo": "pgvector",
-            "stars": 22650
+            "stars": 22660
           }
         },
         {
@@ -406,10 +406,10 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-08-17T00:15:35Z",
+            "last_commit": "2026-08-17T13:17:10Z",
             "owner": "cocoindex-io",
             "repo": "cocoindex",
-            "stars": 11333
+            "stars": 11345
           }
         },
         {
@@ -518,7 +518,7 @@
           "repo_info": {
             "archived": false,
             "language": "Java",
-            "last_commit": "2026-08-17T02:33:59Z",
+            "last_commit": "2026-08-17T19:28:37Z",
             "owner": "datastax",
             "repo": "jvector",
             "stars": 1741
@@ -686,7 +686,7 @@
           "repo_info": {
             "archived": false,
             "language": "C++",
-            "last_commit": "2026-08-13T16:28:44Z",
+            "last_commit": "2026-08-18T10:12:31Z",
             "owner": "intel",
             "repo": "ScalableVectorSearch",
             "stars": 235
@@ -781,7 +781,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-17T10:18:12.565Z",
+    "last_updated": "2026-08-18T10:14:14.109Z",
     "original_repository": "currentslab/awesome-vector-search",
     "original_repository_sha": "13216a05cbfda719937b3e2973dc1cec51f4dc4e",
     "enhanced_repository": "enhansome/enhansome-vector-search",
