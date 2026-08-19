@@ -14,10 +14,10 @@
                 "archived": false,
                 "id": 208728772,
                 "language": "Go",
-                "last_commit": "2026-08-19T10:09:20Z",
+                "last_commit": "2026-08-19T12:49:25Z",
                 "owner": "milvus-io",
                 "repo": "milvus",
-                "stars": 45693
+                "stars": 45696
               }
             },
             {
@@ -29,10 +29,10 @@
                 "archived": false,
                 "id": 268163609,
                 "language": "Rust",
-                "last_commit": "2026-08-19T09:59:19Z",
+                "last_commit": "2026-08-19T12:42:33Z",
                 "owner": "qdrant",
                 "repo": "qdrant",
-                "stars": 34060
+                "stars": 34062
               }
             },
             {
@@ -59,7 +59,7 @@
                 "archived": false,
                 "id": 55072677,
                 "language": "Go",
-                "last_commit": "2026-08-19T10:02:57Z",
+                "last_commit": "2026-08-19T12:45:10Z",
                 "owner": "weaviate",
                 "repo": "weaviate",
                 "stars": 16740
@@ -74,7 +74,7 @@
                 "archived": false,
                 "id": 286301447,
                 "language": "Python",
-                "last_commit": "2026-08-18T14:05:34Z",
+                "last_commit": "2026-08-19T10:44:29Z",
                 "owner": "neuml",
                 "repo": "txtai",
                 "stars": 12892
@@ -164,7 +164,7 @@
                 "archived": false,
                 "id": 195619075,
                 "language": "Go",
-                "last_commit": "2026-08-19T09:18:14Z",
+                "last_commit": "2026-08-19T12:48:22Z",
                 "owner": "vdaas",
                 "repo": "vald",
                 "stars": 1717
@@ -339,7 +339,7 @@
                 "last_commit": "2026-07-05T17:59:07Z",
                 "owner": "pathwaycom",
                 "repo": "llm-app",
-                "stars": 59011
+                "stars": 59008
               }
             },
             {
@@ -354,7 +354,7 @@
                 "last_commit": "2026-08-18T00:31:03Z",
                 "owner": "facebookresearch",
                 "repo": "faiss",
-                "stars": 40765
+                "stars": 40766
               }
             },
             {
@@ -369,7 +369,7 @@
                 "last_commit": "2026-08-16T18:45:46Z",
                 "owner": "google-research",
                 "repo": "google-research",
-                "stars": 38578
+                "stars": 38579
               }
             },
             {
@@ -381,10 +381,10 @@
                 "archived": false,
                 "id": 546206616,
                 "language": "Rust",
-                "last_commit": "2026-08-19T09:39:48Z",
+                "last_commit": "2026-08-19T12:58:06Z",
                 "owner": "chroma-core",
                 "repo": "chroma",
-                "stars": 29083
+                "stars": 29084
               }
             },
             {
@@ -399,7 +399,7 @@
                 "last_commit": "2026-08-15T16:00:34Z",
                 "owner": "pgvector",
                 "repo": "pgvector",
-                "stars": 22670
+                "stars": 22672
               }
             },
             {
@@ -639,7 +639,7 @@
                 "last_commit": "2026-08-18T20:39:59Z",
                 "owner": "usemoss",
                 "repo": "moss",
-                "stars": 662
+                "stars": 663
               }
             },
             {
@@ -726,7 +726,7 @@
                 "archived": false,
                 "id": 642983964,
                 "language": "C++",
-                "last_commit": "2026-08-18T10:17:57Z",
+                "last_commit": "2026-08-19T12:46:18Z",
                 "owner": "intel",
                 "repo": "ScalableVectorSearch",
                 "stars": 235
@@ -832,8 +832,9 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T10:14:18.669Z",
+    "last_updated": "2026-08-19T13:00:14.001Z",
     "original_repository": "currentslab/awesome-vector-search",
+    "original_repository_id": 356254457,
     "original_repository_sha": "13216a05cbfda719937b3e2973dc1cec51f4dc4e",
     "enhanced_repository": "enhansome/enhansome-vector-search",
     "enhanced_repository_description": null,
