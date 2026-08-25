@@ -6,18 +6,18 @@
 
 ### Standalone Service
 
-* [Milvus - A cloud-native vector database with high-performance and high scalability.](https://github.com/milvus-io/milvus) ⭐ 45,776 | 🐛 1,321 | 🌐 Go | 📅 2026-08-25
-* [Qdrant -  Vector Similarity Search Engine with extended filtering support](https://github.com/qdrant/qdrant) ⭐ 34,170 | 🐛 713 | 🌐 Rust | 📅 2026-08-25
+* [Milvus - A cloud-native vector database with high-performance and high scalability.](https://github.com/milvus-io/milvus) ⭐ 45,779 | 🐛 1,326 | 🌐 Go | 📅 2026-08-25
+* [Qdrant -  Vector Similarity Search Engine with extended filtering support](https://github.com/qdrant/qdrant) ⭐ 34,177 | 🐛 705 | 🌐 Rust | 📅 2026-08-25
 * [Jina - Jina allows you to build deep learning-powered search-as-a-service.](https://github.com/jina-ai/jina) ⭐ 21,863 | 🐛 26 | 🌐 Python | 📅 2025-03-24
-* [Weaviate - A cloud-native, real-time vector search engine](https://github.com/semi-technologies/weaviate) ⭐ 16,750 | 🐛 687 | 🌐 Go | 📅 2026-08-25
-* [txtai - Build semantic search applications and workflows](https://github.com/neuml/txtai) ⭐ 12,905 | 🐛 9 | 🌐 Python | 📅 2026-08-25
+* [Weaviate - A cloud-native, real-time vector search engine](https://github.com/semi-technologies/weaviate) ⭐ 16,751 | 🐛 688 | 🌐 Go | 📅 2026-08-25
+* [txtai - Build semantic search applications and workflows](https://github.com/neuml/txtai) ⭐ 12,906 | 🐛 10 | 🌐 Python | 📅 2026-08-25
 * [SuperDuperDB - Bring AI to your favorite database](https://github.com/SuperDuperDB/superduperdb) ⭐ 5,315 | 🐛 36 | 🌐 Python | 📅 2025-09-01
 * [Marqo - A semantic search engine which supports tensor search (sequence of vectors)](https://github.com/marqo-ai/marqo) ⭐ 5,026 | 🐛 192 | 🌐 Python | 📅 2026-08-08
-* [Infinity -  The AI-native database built for LLM applications, providing incredibly fast vector and full-text search](https://github.com/infiniflow/infinity) ⭐ 4,679 | 🐛 64 | 🌐 C++ | 📅 2026-08-17
+* [Infinity -  The AI-native database built for LLM applications, providing incredibly fast vector and full-text search](https://github.com/infiniflow/infinity) ⭐ 4,681 | 🐛 64 | 🌐 C++ | 📅 2026-08-17
 * [Vearch - A scalable distributed system for efficient similarity search of deep learning vectors](https://github.com/vearch/vearch) ⭐ 2,321 | 🐛 170 | 🌐 Python | 📅 2026-07-27
 * [JVector - a pure Java, zero dependency, embedded vector search engine, used by DataStax Astra DB and Apache Cassandra.](https://github.com/jbellis/jvector/) ⭐ 1,741 | 🐛 46 | 🌐 Java | 📅 2026-08-24
 * [Vald - A Highly Scalable Distributed Vector Search Engine](https://github.com/vdaas/vald) ⭐ 1,718 | 🐛 151 | 🌐 Go | 📅 2026-08-24
-* [Solr - Apache Solr](https://github.com/apache/solr) ⭐ 1,665 | 🐛 178 | 🌐 Java | 📅 2026-08-25 - [has a Dense Vector Search feature as of Solr 9.0](https://solr.apache.org/guide/solr/latest/query-guide/dense-vector-search.html)
+* [Solr - Apache Solr](https://github.com/apache/solr) ⭐ 1,665 | 🐛 179 | 🌐 Java | 📅 2026-08-25 - [has a Dense Vector Search feature as of Solr 9.0](https://solr.apache.org/guide/solr/latest/query-guide/dense-vector-search.html)
 * [Omnigraph - Typed graph database where agents branch and merge like Git. S3-native, Rust, traversal + vector + BM25 in one runtime](https://github.com/ModernRelay/omnigraph) ⭐ 1,080 | 🐛 30 | 🌐 Rust | 📅 2026-08-24
 * [Epsilla -  A High Performance Vector Database Management System, Hippocampus For AI](https://github.com/epsilla-cloud/vectordb) ⭐ 875 | 🐛 16 | 🌐 C++ | 📅 2025-11-29
 * [Elastiknn - Elasticsearch plugin for nearest neighbor search](https://github.com/alexklibisz/elastiknn) ⭐ 395 | 🐛 24 | 🌐 Scala | 📅 2026-07-06
@@ -35,13 +35,13 @@
 
 ### Library
 
-* [LLM App - Open-source Python library for a real-time data KNN (K-Nearest Neighbors) indexing](https://github.com/pathwaycom/llm-app) ⭐ 58,998 | 🐛 8 | 🌐 Jupyter Notebook | 📅 2026-07-05
-* [Faiss - A library for efficient similarity search and clustering of dense vectors](https://github.com/facebookresearch/faiss) ⭐ 40,801 | 🐛 289 | 🌐 C++ | 📅 2026-08-19
-* [ScaNN - A library efficient vector similarity search at scale. ](https://github.com/google-research/google-research/tree/master/scann) ⭐ 38,614 | 🐛 1,988 | 🌐 Jupyter Notebook | 📅 2026-08-21
-* [Chroma - The open-source embedding database for building LLM apps in Python or JavaScript with memory](https://github.com/chroma-core/chroma) ⭐ 29,138 | 🐛 800 | 🌐 Rust | 📅 2026-08-24
-* [pgvector - Open-source vector similarity search extension for Postgres](https://github.com/pgvector/pgvector) ⭐ 22,731 | 🐛 13 | 🌐 C | 📅 2026-08-20
-* [Annoy - C++ library with Python bindings to search for points](https://github.com/spotify/annoy) ⭐ 14,290 | 🐛 86 | 🌐 C++ | 📅 2025-10-29
-* [CocoIndex - An open-source ETL framework with realtime incremental processing to keep index fresh](https://github.com/cocoindex-io/cocoindex) ⭐ 11,401 | 🐛 75 | 🌐 Rust | 📅 2026-08-24
+* [LLM App - Open-source Python library for a real-time data KNN (K-Nearest Neighbors) indexing](https://github.com/pathwaycom/llm-app) ⭐ 58,997 | 🐛 8 | 🌐 Jupyter Notebook | 📅 2026-07-05
+* [Faiss - A library for efficient similarity search and clustering of dense vectors](https://github.com/facebookresearch/faiss) ⭐ 40,801 | 🐛 290 | 🌐 C++ | 📅 2026-08-19
+* [ScaNN - A library efficient vector similarity search at scale. ](https://github.com/google-research/google-research/tree/master/scann) ⭐ 38,616 | 🐛 1,988 | 🌐 Jupyter Notebook | 📅 2026-08-21
+* [Chroma - The open-source embedding database for building LLM apps in Python or JavaScript with memory](https://github.com/chroma-core/chroma) ⭐ 29,140 | 🐛 800 | 🌐 Rust | 📅 2026-08-24
+* [pgvector - Open-source vector similarity search extension for Postgres](https://github.com/pgvector/pgvector) ⭐ 22,732 | 🐛 13 | 🌐 C | 📅 2026-08-20
+* [Annoy - C++ library with Python bindings to search for points](https://github.com/spotify/annoy) ⭐ 14,289 | 🐛 86 | 🌐 C++ | 📅 2025-10-29
+* [CocoIndex - An open-source ETL framework with realtime incremental processing to keep index fresh](https://github.com/cocoindex-io/cocoindex) ⭐ 11,400 | 🐛 75 | 🌐 Rust | 📅 2026-08-24
 * [SPTAG - A distributed approximate nearest neighborhood search (ANN) library ](https://github.com/microsoft/SPTAG) ⭐ 5,012 | 🐛 143 | 🌐 C++ | 📅 2026-08-21
 * [USearch - Smaller & Faster Vector Search Engine for C++, Python, JavaScript, Rust, Java, GoLang, Wolfram](https://github.com/unum-cloud/usearch) ⭐ 4,272 | 🐛 93 | 🌐 C++ | 📅 2026-08-22
 * [NMSLIB - Non-Metric Space Library, an efficient similarity search library for generic non-metric spaces](https://github.com/nmslib/nmslib) ⭐ 3,588 | 🐛 74 | 🌐 C++ | 📅 2026-04-13
@@ -61,7 +61,7 @@
 * [Distributed Faiss - Work with FAISS indexes which don't fit into a single server memory](https://github.com/facebookresearch/distributed-faiss) ⚠️ Archived
 * [MRPT - Fast nearest neighbor search with random projection](https://github.com/teemupitkanen/mrpt) ⭐ 270 | 🐛 1 | 🌐 C++ | 📅 2026-06-19
 * [TorchPQ - Efficient implementations of Product Quantization and its variants using Pytorch and CUDA](https://github.com/DeMoriarty/TorchPQ) ⭐ 236 | 🐛 6 | 🌐 Cuda | 📅 2023-12-12
-* [Scalable Vector Search (SVS) - A performance library for vector similarity search](https://github.com/IntelLabs/ScalableVectorSearch) ⭐ 235 | 🐛 54 | 🌐 C++ | 📅 2026-08-24
+* [Scalable Vector Search (SVS) - A performance library for vector similarity search](https://github.com/IntelLabs/ScalableVectorSearch) ⭐ 235 | 🐛 55 | 🌐 C++ | 📅 2026-08-25
 * [RPForest - Python library for approximate nearest neighbours search](https://github.com/lyst/rpforest) ⭐ 224 | 🐛 0 | 🌐 Python | 📅 2020-02-08
 * [TarsosLSH - A Java library implementing practical nearest neighbour search algorithm for multidimensional vectors ](https://github.com/JorenSix/TarsosLSH) ⭐ 201 | 🐛 5 | 🌐 Java | 📅 2020-07-26
 * [PUFFINN - Parameterless and Universal Fast FInding of Nearest Neighbors](https://github.com/puffinn/puffinn) ⭐ 60 | 🐛 7 | 🌐 C++ | 📅 2025-03-13

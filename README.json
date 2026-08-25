@@ -14,10 +14,10 @@
                 "archived": false,
                 "id": 208728772,
                 "language": "Go",
-                "last_commit": "2026-08-25T05:59:21Z",
+                "last_commit": "2026-08-25T09:47:22Z",
                 "owner": "milvus-io",
                 "repo": "milvus",
-                "stars": 45776
+                "stars": 45779
               }
             },
             {
@@ -29,10 +29,10 @@
                 "archived": false,
                 "id": 268163609,
                 "language": "Rust",
-                "last_commit": "2026-08-25T05:52:38Z",
+                "last_commit": "2026-08-25T09:58:38Z",
                 "owner": "qdrant",
                 "repo": "qdrant",
-                "stars": 34170
+                "stars": 34177
               }
             },
             {
@@ -59,10 +59,10 @@
                 "archived": false,
                 "id": 55072677,
                 "language": "Go",
-                "last_commit": "2026-08-25T05:59:59Z",
+                "last_commit": "2026-08-25T10:06:13Z",
                 "owner": "weaviate",
                 "repo": "weaviate",
-                "stars": 16750
+                "stars": 16751
               }
             },
             {
@@ -77,7 +77,7 @@
                 "last_commit": "2026-08-25T02:02:07Z",
                 "owner": "neuml",
                 "repo": "txtai",
-                "stars": 12905
+                "stars": 12906
               }
             },
             {
@@ -122,7 +122,7 @@
                 "last_commit": "2026-08-17T13:43:09Z",
                 "owner": "infiniflow",
                 "repo": "infinity",
-                "stars": 4679
+                "stars": 4681
               }
             },
             {
@@ -179,7 +179,7 @@
                 "archived": false,
                 "id": 341374920,
                 "language": "Java",
-                "last_commit": "2026-08-25T03:56:58Z",
+                "last_commit": "2026-08-25T06:35:15Z",
                 "owner": "apache",
                 "repo": "solr",
                 "stars": 1665
@@ -339,7 +339,7 @@
                 "last_commit": "2026-07-05T17:59:07Z",
                 "owner": "pathwaycom",
                 "repo": "llm-app",
-                "stars": 58998
+                "stars": 58997
               }
             },
             {
@@ -369,7 +369,7 @@
                 "last_commit": "2026-08-21T19:58:51Z",
                 "owner": "google-research",
                 "repo": "google-research",
-                "stars": 38614
+                "stars": 38616
               }
             },
             {
@@ -384,7 +384,7 @@
                 "last_commit": "2026-08-24T15:39:10Z",
                 "owner": "chroma-core",
                 "repo": "chroma",
-                "stars": 29138
+                "stars": 29140
               }
             },
             {
@@ -399,7 +399,7 @@
                 "last_commit": "2026-08-20T03:47:50Z",
                 "owner": "pgvector",
                 "repo": "pgvector",
-                "stars": 22731
+                "stars": 22732
               }
             },
             {
@@ -414,7 +414,7 @@
                 "last_commit": "2025-10-29T14:08:37Z",
                 "owner": "spotify",
                 "repo": "annoy",
-                "stars": 14290
+                "stars": 14289
               }
             },
             {
@@ -429,7 +429,7 @@
                 "last_commit": "2026-08-24T22:35:07Z",
                 "owner": "cocoindex-io",
                 "repo": "cocoindex",
-                "stars": 11401
+                "stars": 11400
               }
             },
             {
@@ -726,7 +726,7 @@
                 "archived": false,
                 "id": 642983964,
                 "language": "C++",
-                "last_commit": "2026-08-24T16:03:01Z",
+                "last_commit": "2026-08-25T09:32:43Z",
                 "owner": "intel",
                 "repo": "ScalableVectorSearch",
                 "stars": 235
@@ -832,7 +832,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T06:00:50.716Z",
+    "last_updated": "2026-08-25T10:17:55.942Z",
     "original_repository": "currentslab/awesome-vector-search",
     "original_repository_id": 356254457,
     "original_repository_sha": "13216a05cbfda719937b3e2973dc1cec51f4dc4e",
